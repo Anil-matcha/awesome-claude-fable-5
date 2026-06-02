@@ -13,6 +13,11 @@ Join subreddit [Veo4](https://www.reddit.com/r/Veo4_/) for discussion
 > - [Seedance 2.0 API](https://github.com/Anil-matcha/Seedance-2.0-API) — ByteDance's cinematic 2K video model with character sheets & omni-reference
 > - [HappyHorse 1.0 API](https://github.com/Anil-matcha/HappyHorse-1.0-API) — Alibaba's #1 ranked model (1392 Elo I2V) with native 1080p & integrated audio
 
+## Related Projects
+
+- [veo4-video-generator](https://github.com/SamurAIGPT/veo4-video-generator) — Ready-made Next.js SaaS built on Veo 4
+- [veo3.1-comfyui](https://github.com/Anil-matcha/veo3.1-comfyui) — Run Veo 3.1 inside ComfyUI
+
 ## 🚀 Why Use Veo 4 API?
 
 Veo 4 is Google DeepMind's latest state-of-the-art AI video generation model, featuring a 3x larger Transformer architecture than Veo 3, native 4K output, and advanced character anchoring technology.
