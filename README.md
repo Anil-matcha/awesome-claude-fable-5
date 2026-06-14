@@ -72,6 +72,27 @@ curl --location --request GET "https://api.muapi.ai/api/v1/predictions/{request_
   --header "x-api-key: MUAPIAPP_API_KEY"
 ```
 
+## 🤖 All Major LLMs — One API Key, Lower Prices
+
+Access Claude, GPT-5, and Gemini through [MuAPI](https://muapi.ai) — one key, no per-provider sign-ups, at discounted rates vs going direct.
+
+| Model | Provider Direct Price | Via MuAPI |
+|---|---|---|
+| **Claude Fable 5** | Premium (new model) | ✅ **20% off** — [try it](https://muapi.ai/playground/claude-fable-5) |
+| **Claude Opus 4.8** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-8) |
+| **Claude Opus 4.7 / 4.6** | $15 input / $75 output per MTok | ✅ Available at lower cost |
+| **Claude Sonnet 4.6** | $3 input / $15 output per MTok | ✅ Discounted |
+| **Claude Haiku 4.5** | $0.25 input / $1.25 output per MTok | ✅ Discounted |
+| **GPT-5.4 / GPT-5.5** | Premium (flagship pricing) | ✅ Available |
+| **GPT-5 Mini / Nano** | $0.15+ per MTok | ✅ From $0.01 / request |
+| **Gemini 3.5 Flash** | $0.10 / $0.40 per MTok | ✅ From $0.0001 / request |
+| **Gemini 2.5 Pro** | $1.25 / $5 per MTok | ✅ From $0.00025 / request |
+| **Gemini 2.5 Flash** | $0.075 / $0.30 per MTok | ✅ From $0.00005 / request |
+
+> 💡 **One API key** covers all Claude, GPT, and Gemini models. Switch providers by changing the endpoint URL — no re-authentication, no separate billing accounts.
+>
+> ➡️ Get your key at [muapi.ai/pricing](https://muapi.ai/pricing)
+
 ## 📑 Menu
 
 | Section | Cases |
