@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://muapi.ai/playground/claude-fable-5"><img src="images/banner.png" alt="Claude Fable 5 high usecase repository banner" width="760"></a>
+<a href="https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5"><img src="images/banner.png" alt="Claude Fable 5 high usecase repository banner" width="760"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on MuAPI](https://img.shields.io/badge/Try_it_on-MuAPI-black)](https://muapi.ai/playground/claude-fable-5)
-[![20% Off Fable 5](https://img.shields.io/badge/Fable_5-20%25_OFF-ff6b00)](https://muapi.ai/pricing)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://muapi.ai/playground/claude-fable-5)
+[![Try it on MuAPI](https://img.shields.io/badge/Try_it_on-MuAPI-black)](https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5)
+[![20% Off Fable 5](https://img.shields.io/badge/Fable_5-20%25_OFF-ff6b00)](https://muapi.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5)
+[![Website](https://img.shields.io/badge/Website-Live-orange)](https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.muapi.ai)
 [![Build AI SaaS](https://img.shields.io/badge/Build_AI_SaaS-50%2B_templates-22c55e)](https://github.com/Anil-matcha/awesome-generative-ai-apps)
 
@@ -33,24 +33,24 @@ This English source README focuses on high-signal cases with concrete workflows,
 
 Most cases are curated from X/Twitter posts and public demos. Each case title links back to the original source and each author handle links to the creator profile.
 
-**Access Claude Fable 5 and all major LLMs through [MuAPI](https://muapi.ai) — one key, discounted rates vs going direct:**
+**Access Claude Fable 5 and all major LLMs through [MuAPI](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) — one key, discounted rates vs going direct:**
 
 | Model | Provider Direct Price | Via MuAPI |
 |---|---|---|
-| **Claude Fable 5** | Premium (new model) | ✅ **20% off** — [try it](https://muapi.ai/playground/claude-fable-5) |
-| **Claude Opus 4.8** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-8) |
-| **Claude Opus 4.7** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-7) |
-| **Claude Sonnet 4.6** | $3 input / $15 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-sonnet-4-6) |
-| **Claude Haiku 4.5** | $0.25 input / $1.25 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-haiku-4-5) |
-| **GPT-5.4** | Premium (flagship pricing) | ✅ Available — [try it](https://muapi.ai/playground/gpt-5-4) |
-| **GPT-5.5** | Premium (flagship pricing) | ✅ Available — [try it](https://muapi.ai/playground/gpt-5-5) |
-| **GPT-5 Mini** | $0.15+ per MTok | ✅ From $0.01 / request — [try it](https://muapi.ai/playground/gpt-5-mini) |
-| **GPT-5 Nano** | $0.15+ per MTok | ✅ From $0.01 / request — [try it](https://muapi.ai/playground/gpt-5-nano) |
-| **Gemini 3.5 Flash** | $0.10 / $0.40 per MTok | ✅ From $0.0001 / request — [try it](https://muapi.ai/playground/gemini-3-5-flash) |
-| **Gemini 2.5 Pro** | $1.25 / $5 per MTok | ✅ From $0.00025 / request — [try it](https://muapi.ai/playground/gemini-2-5-pro) |
-| **Gemini 2.5 Flash** | $0.075 / $0.30 per MTok | ✅ From $0.00005 / request — [try it](https://muapi.ai/playground/gemini-2-5-flash) |
+| **Claude Fable 5** | Premium (new model) | ✅ **20% off** — [try it](https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Claude Opus 4.8** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-8?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Claude Opus 4.7** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-7?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Claude Sonnet 4.6** | $3 input / $15 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-sonnet-4-6?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Claude Haiku 4.5** | $0.25 input / $1.25 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-haiku-4-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **GPT-5.4** | Premium (flagship pricing) | ✅ Available — [try it](https://muapi.ai/playground/gpt-5-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **GPT-5.5** | Premium (flagship pricing) | ✅ Available — [try it](https://muapi.ai/playground/gpt-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **GPT-5 Mini** | $0.15+ per MTok | ✅ From $0.01 / request — [try it](https://muapi.ai/playground/gpt-5-mini?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **GPT-5 Nano** | $0.15+ per MTok | ✅ From $0.01 / request — [try it](https://muapi.ai/playground/gpt-5-nano?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Gemini 3.5 Flash** | $0.10 / $0.40 per MTok | ✅ From $0.0001 / request — [try it](https://muapi.ai/playground/gemini-3-5-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Gemini 2.5 Pro** | $1.25 / $5 per MTok | ✅ From $0.00025 / request — [try it](https://muapi.ai/playground/gemini-2-5-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
+| **Gemini 2.5 Flash** | $0.075 / $0.30 per MTok | ✅ From $0.00005 / request — [try it](https://muapi.ai/playground/gemini-2-5-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) |
 
-> One API key for all providers. Switch models by changing the endpoint — no extra accounts, no separate billing. ➡️ [muapi.ai/pricing](https://muapi.ai/pricing)
+> One API key for all providers. Switch models by changing the endpoint — no extra accounts, no separate billing. ➡️ [muapi.ai/pricing](https://muapi.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5)
 
 ## 📊 Overview
 
@@ -63,14 +63,14 @@ Most cases are curated from X/Twitter posts and public demos. Each case title li
 > The collection favors concrete evidence over hype: reproducible prompts, shipped demos, benchmark methods, integration notes, cost data, and clearly stated caveats.
 
 > [!TIP]
-> **Get 20% off Claude Fable 5 on MuAPI.** Access Fable 5 at 20% off vs direct API pricing — instant REST access, no setup required. [Claim the discount →](https://muapi.ai/pricing)
+> **Get 20% off Claude Fable 5 on MuAPI.** Access Fable 5 at 20% off vs direct API pricing — instant REST access, no setup required. [Claim the discount →](https://muapi.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5)
 
 > 🚀 **Want to build your own AI SaaS with Fable 5?** [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — 50+ production-ready AI SaaS templates with Stripe billing built in. Fork one, brand it, start charging.
 
 <a id="-quick-api-access"></a>
 ## ⚡ Quick API Access
 
-Use Claude Fable 5 via the [MuAPI](https://muapi.ai/playground/claude-fable-5) REST API. Get your API key from [muapi.ai](https://muapi.ai), then replace `MUAPIAPP_API_KEY` with your key.
+Use Claude Fable 5 via the [MuAPI](https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5) REST API. Get your API key from [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-5), then replace `MUAPIAPP_API_KEY` with your key.
 
 ```bash
 # Submit a task
