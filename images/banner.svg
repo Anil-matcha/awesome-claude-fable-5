@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Jev by TypeSafe: typed decisions for software</title>
+  <desc id="desc">A dark teal technical banner with probability cards, a decision graph, and the words Awesome Jev, Typed Decisions, and TypeSafe System One.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#041416"/>
+      <stop offset="0.48" stop-color="#062b2d"/>
+      <stop offset="1" stop-color="#10204b"/>
+    </linearGradient>
+    <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="0.52" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#99f6e4"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.28"/>
+      <stop offset="0.58" stop-color="#2563eb" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M 52 0 L 0 0 0 52" fill="none" stroke="#8ff8eb" stroke-opacity="0.055" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.2" fill="#8ff8eb" fill-opacity="0.13"/>
+    </pattern>
+    <pattern id="microgrid" width="13" height="13" patternUnits="userSpaceOnUse">
+      <path d="M 13 0 L 0 0 0 13" fill="none" stroke="#7dd3fc" stroke-opacity="0.022" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1672" height="941" fill="url(#bg)"/>
+  <rect width="1672" height="941" fill="url(#grid)"/>
+  <rect width="1672" height="941" fill="url(#microgrid)"/>
+  <ellipse cx="1318" cy="468" rx="445" ry="420" fill="url(#halo)" filter="url(#softGlow)"/>
+
+  <g fill="#c8fff8">
+    <circle cx="118" cy="126" r="2" opacity="0.68"/>
+    <circle cx="280" cy="770" r="1.5" opacity="0.5"/>
+    <circle cx="488" cy="170" r="1.5" opacity="0.55"/>
+    <circle cx="682" cy="820" r="2" opacity="0.42"/>
+    <circle cx="846" cy="98" r="1.4" opacity="0.55"/>
+    <circle cx="975" cy="708" r="1.5" opacity="0.55"/>
+    <circle cx="1164" cy="146" r="1.5" opacity="0.55"/>
+    <circle cx="1514" cy="182" r="2" opacity="0.72"/>
+    <circle cx="1580" cy="730" r="1.4" opacity="0.55"/>
+  </g>
+
+  <g fill="none" stroke="#70e1d2" stroke-opacity="0.15" stroke-width="2">
+    <path d="M 0 236 H 238 L 302 172 H 392"/>
+    <path d="M 80 866 H 340 L 402 804 H 590"/>
+    <path d="M 1520 76 H 1602 L 1672 146"/>
+    <path d="M 1460 855 H 1572 L 1634 793 H 1672"/>
+  </g>
+  <g fill="#70e1d2" fill-opacity="0.38">
+    <circle cx="238" cy="236" r="4"/>
+    <circle cx="340" cy="866" r="4"/>
+    <circle cx="1520" cy="76" r="4"/>
+    <circle cx="1460" cy="855" r="4"/>
+  </g>
+
+  <g transform="translate(1320 464)" fill="none" stroke="url(#aqua)" filter="url(#glow)">
+    <circle r="218" stroke-width="2" opacity="0.32" stroke-dasharray="7 15"/>
+    <circle r="154" stroke-width="3" opacity="0.48" stroke-dasharray="4 12"/>
+    <path d="M -228 -90 H -120 L -55 -156 H 68" stroke-width="5" opacity="0.78"/>
+    <path d="M -230 92 H -126 L -55 158 H 70" stroke-width="4" opacity="0.62"/>
+    <path d="M 80 -156 H 142 L 208 -92" stroke-width="4" opacity="0.68"/>
+    <path d="M 80 158 H 144 L 208 92" stroke-width="3" opacity="0.52"/>
+    <rect x="-114" y="-114" width="228" height="228" rx="34" fill="#0a4142" fill-opacity="0.72" stroke-width="5"/>
+    <path d="M 0 -78 L 20 -20 L 78 0 L 20 20 L 0 78 L -20 20 L -78 0 L -20 -20 Z" fill="#50e1d1" fill-opacity="0.18" stroke-width="4"/>
+    <circle r="29" fill="#e9fffc" fill-opacity="0.95" stroke="#ffffff" stroke-width="3"/>
+    <circle r="11" fill="#2dd4bf" stroke="none"/>
+    <g stroke="#ccfbf1" stroke-width="2.5" opacity="0.72">
+      <path d="M -30 -145 V -125"/><path d="M 30 125 V 145"/>
+      <path d="M 125 -30 H 145"/><path d="M -145 30 H -125"/>
+    </g>
+  </g>
+
+  <g transform="translate(1008 116)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect width="216" height="110" rx="16" fill="#071f27" fill-opacity="0.88" stroke="#75f1df" stroke-opacity="0.42"/>
+    <text x="20" y="28" font-size="15" letter-spacing="2" fill="#91f6e8">CHOICE</text>
+    <text x="20" y="57" font-size="22" font-weight="700" fill="#f3fffd">billing</text>
+    <text x="20" y="84" font-size="15" fill="#a9d9d5">confidence 0.91</text>
+    <path d="M 155 82 H 194" stroke="#2dd4bf" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="194" cy="82" r="5" fill="#5eead4"/>
+  </g>
+  <g transform="translate(1452 334)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect width="170" height="108" rx="16" fill="#091d38" fill-opacity="0.86" stroke="#8da8ff" stroke-opacity="0.42"/>
+    <text x="20" y="28" font-size="15" letter-spacing="2" fill="#b8c5ff">SCORE</text>
+    <text x="20" y="61" font-size="28" font-weight="700" fill="#f5f7ff">1.72</text>
+    <text x="20" y="87" font-size="14" fill="#bec8ea">severity</text>
+  </g>
+  <g transform="translate(1048 742)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect width="212" height="104" rx="16" fill="#102b32" fill-opacity="0.86" stroke="#5eead4" stroke-opacity="0.34"/>
+    <text x="20" y="29" font-size="15" letter-spacing="2" fill="#91f6e8">NOUL</text>
+    <text x="20" y="63" font-size="27" font-weight="700" fill="#f3fffd">0.08</text>
+    <text x="86" y="62" font-size="15" fill="#a9d9d5">jailbreak</text>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#f2fffd">
+    <text x="112" y="188" font-size="29" letter-spacing="6" font-weight="600" fill="#8feee1">TYPESAFE SYSTEM ONE</text>
+    <text x="108" y="374" font-size="112" letter-spacing="-4" font-weight="700">AWESOME</text>
+    <text x="108" y="495" font-size="112" letter-spacing="-4" font-weight="700" fill="url(#violet)">JEV</text>
+    <rect x="114" y="548" width="326" height="4" rx="2" fill="url(#aqua)"/>
+    <text x="110" y="625" font-size="47" letter-spacing="4" font-weight="500">TYPED DECISIONS</text>
+    <text x="112" y="806" font-size="27" letter-spacing="6" font-weight="600" fill="#bfdbd7">CODE OWNS THE CONTROL FLOW</text>
+  </g>
+
+  <rect x="35" y="35" width="1602" height="871" rx="28" fill="none" stroke="#8ef4e6" stroke-opacity="0.16" stroke-width="2"/>
+</svg>
