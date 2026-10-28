@@ -28,6 +28,7 @@
 - [awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) — Successor collection with current Claude Fable 5.1 launch evidence, migration notes, and prompt patterns.
 - [awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) — Cross-model companion covering evidence-backed GPT-6 Astra workflows, API patterns, evaluations, and safety notes.
 - [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) — Evidence-led Gemini frontier-model use cases, prompts, evaluations, and release tracking.
+- [awesome-gemini-4-carbon](https://github.com/Anil-matcha/awesome-gemini-4-carbon) — Source-linked tracker for Google's Gemini 4 Carbon: cyber and coding benchmarks, pricing, restricted-access status.
 - [MuAPI](https://muapi.ai) — Unified access to generative AI models, with Fable 5.1 support planned for a future MuAPI release.
 - [MuAPI model catalog](https://muapi.ai/docs/models) — Current model availability and integration documentation.
 
